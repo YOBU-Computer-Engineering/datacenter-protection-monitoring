@@ -1,0 +1,32 @@
+.datepicker{
+  margin-left: 40%;
+    margin-bottom: 10px;
+    margin-top: 3px;
+}
+.satir{
+  display: contents;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1.4fr 0.6fr 1fr;
+    grid-template-rows: 0.4fr 1.6fr 1fr;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      "sicaklik-ve-nem hava-kalitesi hava-kalitesi"
+      "odaya-girildi-mi odaya-girildi-mi odaya-girildi-mi"
+      ". . .";
+      max-height: -webkit-fill-available;
+  }
+  
+  .sicaklik-ve-nem { grid-area: sicaklik-ve-nem; }
+  
+  .hava-kalitesi { grid-area: hava-kalitesi; }
+  
+  .odaya-girildi-mi { grid-area: odaya-girildi-mi; }
+  
+  
+  table {
+    width: 100%;
+  }

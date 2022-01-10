@@ -1,0 +1,90 @@
+<div class="datepicker">
+  <mat-form-field appearance="fill">
+    <input matInput [matDatepicker]="picker" placeholder="Select A Day"
+           (dateInput)="addEvent('input', $event)" (dateChange)="addEvent('change', $event)">
+    <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+    <mat-datepicker #picker></mat-datepicker>
+  </mat-form-field>
+</div>
+
+<div class="example-events">
+  <div *ngFor="let e of events">{{e}}</div>
+</div>
+
+<div class="container">
+<div class="satir">
+  <div class="sicaklik-ve-nem">
+    <ngx-charts-line-chart
+      [view]="view"
+      [legend]="true"
+      [showXAxisLabel]="showXAxisLabel"
+      [showYAxisLabel]="showYAxisLabel"
+      [xAxis]="xAxis"
+      [yAxis]="yAxis"
+      [xAxisLabel]="xAxisLabel"
+      [yAxisLabel]="yAxisLabel"
+      [timeline]="timeline"
+      [results]="dht11List"
+    >
+    </ngx-charts-line-chart>
+  </div>
+
+  <div class="hava-kalitesi">
+    <ngx-charts-line-chart
+      [view]="view"
+      [legend]="false"
+      [showXAxisLabel]="showXAxisLabel2"
+      [showYAxisLabel]="showYAxisLabel2"
+      [xAxis]="xAxis"
+      [yAxis]="yAxis"
+      [xAxisLabel]="xAxisLabel2"
+      [yAxisLabel]="yAxisLabel2"
+      [timeline]="timeline"
+      [results]="airQualityList"
+    >
+    </ngx-charts-line-chart>
+  </div>
+</div>
+  <div
+    class="odaya-girildi-mi"
+    style="margin-top: -43px; margin-left: 10%; margin-right: 10%"
+  >
+    <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+      <!--- Notefr that these columns can be defined in any order.
+            The actual rendered columns are set as a property on the row definition" -->
+
+      <!-- Position Column -->
+      <ng-container matColumnDef="position">
+        <th mat-header-cell *matHeaderCellDef>No.</th>
+        <td mat-cell *matCellDef="let element; let i = index">{{ i + 1  }}</td>
+      </ng-container>
+
+      <!-- Name Column -->
+      <ng-container matColumnDef="name">
+        <th mat-header-cell *matHeaderCellDef>Building</th>
+        <td mat-cell *matCellDef="let element">{{ element.name }}</td>
+      </ng-container>
+
+      <!-- Weight Column -->
+      <ng-container matColumnDef="device">
+        <th mat-header-cell *matHeaderCellDef>Room & Device</th>
+        <td mat-cell *matCellDef="let element">{{ element.device }}</td>
+      </ng-container>
+
+      <!-- Symbol Column -->
+      <ng-container matColumnDef="mac">
+        <th mat-header-cell *matHeaderCellDef>Mac Adress</th>
+        <td mat-cell *matCellDef="let element">{{ element.mac }}</td>
+      </ng-container>
+
+      <!-- Symbol Column -->
+      <ng-container matColumnDef="triggeredDate">
+        <th mat-header-cell *matHeaderCellDef>Triggered Date</th>
+        <td mat-cell *matCellDef="let element">{{ element.triggeredDate }}</td>
+      </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+    </table>
+  </div>
+</div>
