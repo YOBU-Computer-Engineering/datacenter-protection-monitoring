@@ -9,7 +9,6 @@ Charts shows avarage values of hours. Sorting and avarage algorithms used
 
 ![image](https://user-images.githubusercontent.com/43602725/148828175-13049d1e-c9f6-4f6b-9342-039c7327a6e1.png)
 
-![image](https://user-images.githubusercontent.com/43602725/148948381-cd4b3d9c-ae47-451d-9ce3-f7126f332f57.png)
 
 Project Hardware Circuit
 ![image](https://user-images.githubusercontent.com/43602725/148948409-5e1434da-6973-42d7-b9c9-52b109e535de.png)
