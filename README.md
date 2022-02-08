@@ -1,7 +1,7 @@
 # datacenter-protection-monitoring 
 ![image](https://user-images.githubusercontent.com/43602725/148827871-9bf5e652-c87e-44f7-910d-7e0d55011419.png)
 
-Charts shows avarage values of hours. Sorting and avarage algorithms used
+Charts shows avarage values of hours. Sorting and avarage algorithms used.
 
 ![image](https://user-images.githubusercontent.com/43602725/148828294-db6eb53b-fa37-42b5-9f96-d73f97629b1a.png)
 
