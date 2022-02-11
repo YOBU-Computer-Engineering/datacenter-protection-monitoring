@@ -1,4 +1,7 @@
 # datacenter-protection-monitoring 
+Explanation of the project: https://www.youtube.com/watch?v=OogI-tZdgVU
+
+UI 
 ![image](https://user-images.githubusercontent.com/43602725/148827871-9bf5e652-c87e-44f7-910d-7e0d55011419.png)
 
 Charts shows avarage values of hours. Sorting and avarage algorithms used.
