@@ -4,7 +4,7 @@ Explanation of the project(video): https://www.youtube.com/watch?v=OogI-tZdgVU
 Controller Component
 ![controller](https://user-images.githubusercontent.com/43602725/154363302-711d69d9-9740-446c-8376-11172146b569.jpg)
 
-
+ 
 Router Component
 ![router](https://user-images.githubusercontent.com/43602725/154363323-6996b89c-8733-4059-aee4-f103afaacbd0.jpg)
 
