@@ -1,1 +1,3 @@
-testa
+export class sa{
+    
+}
