@@ -1,4 +1,4 @@
-# datacenter-protection-monitoring  
+# datacenter-protection-monitoring app
 Explanation of the project(video): https://www.youtube.com/watch?v=OogI-tZdgVU
 
 Hardware Circuit
