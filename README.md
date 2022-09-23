@@ -8,11 +8,11 @@ Sensor-Arduino Connections
 ![image](https://user-images.githubusercontent.com/43602725/148948571-959fa561-ff4c-4b2b-92e2-bd0ce08cb03c.png)
 
 
-Controller Component
+Controller
 ![controller](https://user-images.githubusercontent.com/43602725/154363302-711d69d9-9740-446c-8376-11172146b569.jpg)
 
  
-Router Component
+Router
 ![router](https://user-images.githubusercontent.com/43602725/154363323-6996b89c-8733-4059-aee4-f103afaacbd0.jpg)
 
 
@@ -32,7 +32,7 @@ Project Hardware Connection Idea
 ![image](https://user-images.githubusercontent.com/43602725/148948409-5e1434da-6973-42d7-b9c9-52b109e535de.png)
 
 
-Project Software Circuit
+Project Software Cycle
 ![image](https://user-images.githubusercontent.com/43602725/148948305-23ab08f1-f924-4923-afcc-4fe8cbb1e8a4.png)
 
 
