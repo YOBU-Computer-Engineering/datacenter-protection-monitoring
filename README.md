@@ -3,6 +3,9 @@ Explanation of the project(video): https://www.youtube.com/watch?v=OogI-tZdgVU
 <br>
 Project explained(blog): https://enginkaratas.com/explanation-ardunio-and-xbee-controller-project-data-center-protection/
 
+Project Software Cycle
+![image](https://user-images.githubusercontent.com/43602725/148948305-23ab08f1-f924-4923-afcc-4fe8cbb1e8a4.png)
+
 Hardware Circuit
 Sensor-Arduino Connections
 ![image](https://user-images.githubusercontent.com/43602725/148828175-13049d1e-c9f6-4f6b-9342-039c7327a6e1.png)
@@ -35,8 +38,6 @@ Project Hardware Connection Idea
 ![image](https://user-images.githubusercontent.com/43602725/148948409-5e1434da-6973-42d7-b9c9-52b109e535de.png)
 
 
-Project Software Cycle
-![image](https://user-images.githubusercontent.com/43602725/148948305-23ab08f1-f924-4923-afcc-4fe8cbb1e8a4.png)
 
 
 
