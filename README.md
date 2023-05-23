@@ -7,14 +7,11 @@ Project Software Cycle
 ![image](https://user-images.githubusercontent.com/43602725/148948305-23ab08f1-f924-4923-afcc-4fe8cbb1e8a4.png)
 
 Hardware Circuit
-Sensor-Arduino Connections
-![image](https://user-images.githubusercontent.com/43602725/148828175-13049d1e-c9f6-4f6b-9342-039c7327a6e1.png)
-
 ![image](https://user-images.githubusercontent.com/43602725/148948465-936ec69e-a253-4227-b8d9-d3e86d3924e8.png)
 
 ![image](https://user-images.githubusercontent.com/43602725/148948571-959fa561-ff4c-4b2b-92e2-bd0ce08cb03c.png)
 
-
+Sensor-Arduino Connections
 Controller
 ![controller](https://user-images.githubusercontent.com/43602725/154363302-711d69d9-9740-446c-8376-11172146b569.jpg)
 
