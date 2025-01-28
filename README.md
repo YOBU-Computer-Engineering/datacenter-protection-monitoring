@@ -18,24 +18,24 @@ Highlights
 
 - 🖥️ GitHub Repository: The project code and documentation are available on GitHub for reference.
 
-Project Software Cycle
+## Project Software Cycle
 ![image](https://user-images.githubusercontent.com/43602725/148948305-23ab08f1-f924-4923-afcc-4fe8cbb1e8a4.png)
 
-Hardware Circuit
+## Hardware Circuit
 ![image](https://user-images.githubusercontent.com/43602725/148948465-936ec69e-a253-4227-b8d9-d3e86d3924e8.png)
 
 ![image](https://user-images.githubusercontent.com/43602725/148948571-959fa561-ff4c-4b2b-92e2-bd0ce08cb03c.png)
 
-Sensor-Arduino Connections
+## Sensor-Arduino Connections
 Controller
 ![controller](https://user-images.githubusercontent.com/43602725/154363302-711d69d9-9740-446c-8376-11172146b569.jpg)
 
  
-Router
+## Router
 ![router](https://user-images.githubusercontent.com/43602725/154363323-6996b89c-8733-4059-aee4-f103afaacbd0.jpg)
 
 
-UI 
+## UI 
 ![image](https://user-images.githubusercontent.com/43602725/148827871-9bf5e652-c87e-44f7-910d-7e0d55011419.png)
 
 Charts shows avarage values of hours. Sorting and avarage algorithms used.
