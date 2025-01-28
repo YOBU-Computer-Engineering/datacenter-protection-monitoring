@@ -1,6 +1,5 @@
-# datacenter-protection-monitoring app
+# datacenter-protection-monitoring
 Explanation video: https://www.youtube.com/watch?v=OogI-tZdgVU
-<br>
 
 The project focuses on data center protection and monitoring using Arduino and XBee technology to manage and visualize data from various sensors.
 
