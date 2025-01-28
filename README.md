@@ -4,19 +4,19 @@ Explanation video: https://www.youtube.com/watch?v=OogI-tZdgVU
 The project focuses on data center protection and monitoring using Arduino and XBee technology to manage and visualize data from various sensors.
 
 Highlights
--📊 Data Center Management: The project addresses the need for effective data center protection and monitoring.
+- 📊 Data Center Management: The project addresses the need for effective data center protection and monitoring.
 
--🔧 Sensor Integration: Various sensors (air quality, humidity, distance) are utilized for real-time monitoring.
+- 🔧 Sensor Integration: Various sensors (air quality, humidity, distance) are utilized for real-time monitoring.
 
--📡 Wireless Communication: XBee devices enable wireless data transmission to a central system.
+- 📡 Wireless Communication: XBee devices enable wireless data transmission to a central system.
 
--💻 Web Interface: An Angular-based web interface visualizes incoming data for easy management.
+- 💻 Web Interface: An Angular-based web interface visualizes incoming data for easy management.
 
--🗄️ Database Handling: MySQL is used for data storage and management, enhancing scalability.
+- 🗄️ Database Handling: MySQL is used for data storage and management, enhancing scalability.
 
--🎛️ C# and Java: C# listens to serial data, while Java (Spring Boot) processes and sends data to the front end.
+- 🎛️ C# and Java: C# listens to serial data, while Java (Spring Boot) processes and sends data to the front end.
 
--🖥️ GitHub Repository: The project code and documentation are available on GitHub for reference.
+- 🖥️ GitHub Repository: The project code and documentation are available on GitHub for reference.
 
 Project Software Cycle
 ![image](https://user-images.githubusercontent.com/43602725/148948305-23ab08f1-f924-4923-afcc-4fe8cbb1e8a4.png)
